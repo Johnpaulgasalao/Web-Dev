@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content+"with=device-width, initial-scale=1.0">
+    <title>Web-1D</title>
+</head>
+<body>
+    
+    <h6>Name: John Paul A. Gasalao</h6>
+    <h6>Age:19</h6>
+    <h6>Address: Basak Lapu Lapu City, Cebu</h6>
+    <h6>Gender: Male</h6>
+    <h6>Description of yourself: Im New student at CPC and i want to learn how to make code by using html.</h6>
+
+    
+        <h6>CPC STUDY LOAD</h6>
+<h6>STUDENT ID NUMBER: 20251036</h6>
+    <h6>BSIT-1D WEB WEB DEVELOPMENT 8:00-9:00 A.M MWF LAB2 UNITS:3</h6>
+   <h6>INSTRUCTOR. B. EMPACES</h6>
+ <h6>BSIT-2A  Ge 9 SCIENCE TECHNOLOGY AND SOCIETY 9:00-10:00 A.M MWF 403 UNITS: 3</h6>  
+  <h6>INSTRUCTOR. LEONIZO</h6>
+  
+ 
+  <h6>BSIT-1D BASIC ELECT BASIC ELECTRONICS 12:00-1:00 P.M MWF LAB3 UNITS: 3 </h6>
+  <h6>INTRUCTOR T. COMAYAS</h6>
+  <h6>BSIT-2C PROBSTAT PROBABILITIES AND STATISTICS 12:00-1:30 P.M TTH TENT5 UNITS: 3</h6>
+  <h6>INSTRUCTOR E. DINOY</h6>
+  <h6>BSIT-2C Ge 10 READING VISUAL ARTS 1:30-3:00 P.M TTH RD1 UNITS: 3</h6>
+ <h6>INSTRUCTOR. LEONIZO</h6>
+ <h6>BSIT-1D Ge 4 PURPOSIVE COMMUNICATION 3:00-4:30 P.M TTH 202 UNITS: 3</h6>
+  <h6>INSTRUCTOR. C. BLASCO</h6>
+ <h6>BSIT-1D DISCRETE DISCRETE STRUCTURES 7:00-10:00 A.M SAT RD2 UNITS: 3</h6>
+  <h6>INSTRUCTOR. E. DINOY</h6>
+  <h6>BSIT-1D FIL 2 PANITIKAN NG PILIPINAS 10:00-1:00 P.M SAT 302 UNITS: 3</h6>
+  <h6>INSTRUCTOR. MANCHING</h6>
+  <h6>BSIT-1D Ge 3 READING PHILIPPINE HISTORY 1:00-4:00 P.M SAT 301 UNITS: 3</h6>
+ <h6>INSTRUCTOR. D. INOC</h6>
+  </body>
+    </html>
