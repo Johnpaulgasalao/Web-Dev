@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Grade Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 15px auto;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        thead {
+            background-color: #C2381D;
+        }
+        tfoot {
+            background-color: #C2381D;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Hobbies (Ordered List)</h2>
+    <ol>
+        <li>Gaming</li>
+        <li>Reading</li>
+        <li>Exercise</li>
+        <li>Guitar</li>
+    </ol>
+
+    <h2>Grading Components (Unordered List)</h2>
+    <ul>
+        <li>Quizzes</li>
+        <li>Assignments</li>
+        <li>Examinations</li>
+    </ul>
+
+<h2 style="text-align:center;">STUDENT GRADE TABLE</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Remarks</th>
+            <th>Subject</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>PASSED</td>
+            <td>21 Century Literature from the Philippines and the World</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>P.E & HEALTH</td>
+            <td>91</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Entrepreneurship</td>
+            <td>84</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Understanding Culture, Society Politics</td>
+            <td>83</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>E-Tech ICT for Professional tracks</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Research Project/ Culminating Activity</td>
+            <td>81</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Contact Center Service</td>
+            <td>84</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Creative Nonfiction</td>
+            <td>81</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Work Immersion/Research/Career Advocacy/Culminating Activity</td>
+            <td>91</td>
+        </tr>
+        <tr>
+            <td>PASSED</td>
+            <td>Trends,Network, and Critical Thinking in the 21 Century Culture</td>
+            <td>80</td>
+        </tr>
+    </tbody>
+
+    <tfoot>
+        <tr>
+            <td colspan="2">Average Score</td>
+            <td>85.0</td>
+        </tr>
+<tbody>
+<table>
+    <thead>
+        <tr>
+    <th>LEARNER'S OBSERVED VALUES</th>
+    <th>2ND
+    <th>SEM MARKING</th>
+        <th>CORE VALUES
+        <th>BEHAVIOR STATEMENTS
+        <th>3
+        <th>4
+        <th>NON-NUMERICAL RATING</th>
+        </thead>
+            </tr>
+            <tr>
+           <td><h4>1.MAKA-DIYOS
+           <td colspan="4">Express one's Spiritual beliefs while respecting the Spiritual beliefs of other.
+           <td>AO
+           <td>AO
+           <td>AO (Always Observed)
+           </td>
+           <tr>
+               <td><h4>2.MAKA-TAO
+               <td colspan="4">Is sensitive to Individual, Social cultural differences.
+                   <td>AO
+                   <td>AO
+                   <td>SO (Sometimes Observed)
+                   </td>
+                   <tr>
+                       <td><h4>3.MAKAKALIKASAN
+                       <td colspan="4">Cares for the environment and utilizes resources wisely, judiciously and econominicaly.
+                       <td>AO
+                       <td>AO
+                       <td>RO (Rare Observed)
+                       </td>
+                       <tr>
+                           <td><h4>4.MAKABANSA
+                           <td colspan="4">Demonstrate pride in being a filipino, exercise the rights and responsibilities of a filipino citiziens.
+                           <td>AO
+                           <td>AO
+                           <td>NO (Not Observed)</td>
+                           </tr>
+           </tbody>
+           </tfoot>
+           </table>             
+                   <h2 style="text-align:center;">ATTENDANCE RECORD</h2>       
+                   
+                 
+                    <table>
+                        <thead>
+                            <tbody>
+                            <tr>
+                <td><h4>2nd SEMESTER</td></h4>
+                <td><h4>AUG
+                <td><h4>SEP
+                <td><h4>OCT
+                <td><h4>NOV
+                <td><h4>DEC 
+                <td><h4>JAN
+                <td><h4>FEB
+                <td><h4>MAR
+                <td><h4>APR
+                <td><h4>MAY
+                <td><h4>TOTAL:
+                </tr>
+                <tr>
+                <td><h4>No. of SCHOOL DAYS
+                <td>3
+                <td>25
+                <td>25
+                <td>21
+                <td>17
+                <td>25
+                <td>24
+                <td>23
+                <td>23
+                <td>21
+                <td>207
+                </tr>
+                <tr>
+                <td><h4>No. of DAYS PRESENT
+                <td>3
+                <td>25
+                <td>25
+                <td>21
+                <td>14
+                <td>22
+                <td>22
+                <td>19
+                <td>13
+                <td>21
+                <td>185
+                </tr>
+                <tr>
+                <td><h4>No. of DAYS ABSENT
+                <td>0
+                <td>0
+                <td>0
+                <td>0
+                <td>3
+                <td>3
+                <td>2
+                <td>4
+                <td>10
+                <td>0
+                <td>22
+                </tr>           
+    </body>
+    </tfoot>
+</table>
+<head>
+<body>
+<h4>Name: Gasalao John Paul A.</h4>
+<h4>Grade & Section: 12-BULOSAN </h4>
+<h4>Track/Strand: ACADEMIC: HUMANITIES AND SOCIAL SCIENCES</h4>
+
+
+<h2 style="text-align:center;">
